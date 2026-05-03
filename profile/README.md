@@ -31,7 +31,6 @@ A selection of major lab projects you can read about on our website — code and
 - 🌳 [**Saving Sharks with Trees**](https://www.dulvy.com/saving-sharks-with-trees.html) — phylogenetic approaches to conservation
 - 🪚 [**Global Sawfish Conservation Strategy**](https://www.dulvy.com/global-sawfish-conservation-strategy.html)
 - 🛟 [**MPA 2.0**](https://www.dulvy.com/mpa2point0.html) — preventing ocean extinctions through better protected areas
-- 📊 [**Life History Database**](https://www.dulvy.com/life-history-database.html) — open data on marine fish biology
 
 ---
 
