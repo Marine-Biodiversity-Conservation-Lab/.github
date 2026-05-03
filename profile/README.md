@@ -2,7 +2,7 @@
 
 ### *Marine Science That Matters*
 
-We are a research group based at **Simon Fraser University**, led by [**Dr. Nick Dulvy**](https://www.dulvy.com/team.html). Our work sits at the intersection of marine ecology, macroecology, and conservation science — with a particular focus on the extinction risk, life history, and recovery potential of sharks, rays, and other ocean vertebrates.
+We are a research group based at **Simon Fraser University**, led by [**Dr. Nick Dulvy**](https://www.dulvy.com/team.html). Our work sits at the intersection of marine ecology, macroecology, and conservation science with a particular focus on the extinction risk, life history, and recovery potential of sharks, rays, and other ocean vertebrates.
 
 This GitHub organization is where we share the **code, data, and reproducible analyses** behind our published research.
 
@@ -16,7 +16,6 @@ This GitHub organization is where we share the **code, data, and reproducible an
 - **Macroecology & life history** — body size, metabolism, and the fast–slow continuum
 - **Sustainable fisheries** and the conditions that allow depleted populations to recover
 - **Marine Protected Areas** and other place-based conservation tools
-- **Climate change** and the redistribution of marine animals
 - **IUCN Red List assessments** and global biodiversity indicators
 
 ---
